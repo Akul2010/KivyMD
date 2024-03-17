@@ -5,10 +5,9 @@
 *********************************************************************
 #Github: https://github.com/vipinjangra
 #Youtube: https://www.youtube.com/c/vipincoding/
-#Blog: http://vipincoding.wordpress.com/
-#Website: http://vipincoding.blogspot.com
-#Facebook: https://www.facebook.com/vipincoding
-#Instagram: https://www.instagram.com/vipincoding/
+#Website: http://vipincoding.graphy.com
+#Facebook: https://www.facebook.com/vstutorialsss
+#Instagram: https://www.instagram.com/vstutorials_
 *********************************************************************
 
 from kivy.lang import Builder
